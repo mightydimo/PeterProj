@@ -1,0 +1,3 @@
+dotnet aspnet-codegenerator controller -name PeopleController -m PeterProj.Models.Person -dc PeterProj.Models.RoiDatabaseContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -api
+
+dotnet aspnet-codegenerator controller -name DepartmentsController -m tePeterProjst.Models.Department -dc PeterProj.Models.RoiDatabaseContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -api
